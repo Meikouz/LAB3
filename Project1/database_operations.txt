@@ -1,0 +1,9 @@
+Connection: LocalFileDatabase
+SQL: Hello
+-----------------------------
+Connection: LocalFileDatabase
+SQL: 3
+-----------------------------
+Connection: LocalFileDatabase
+SQL: SELECT * FROM test;
+-----------------------------

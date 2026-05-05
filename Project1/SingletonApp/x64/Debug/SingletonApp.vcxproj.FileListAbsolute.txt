@@ -1,0 +1,1 @@
+C:\Users\Asus\source\2026\Project1\SingletonApp\x64\Debug\SingletonApp.vcxproj.AssemblyReference.cache

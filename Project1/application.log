@@ -1,0 +1,89 @@
+[2026-05-05 16:16:31] Program: запуск програми
+[2026-05-05 16:16:34] Program: запуск програми
+[2026-05-05 16:17:50] Program: запуск програми
+[2026-05-05 16:18:04] Program: запуск програми
+[2026-05-05 16:22:14] Program: запуск програми
+[2026-05-05 16:22:41] Program: запуск програми
+[2026-05-05 16:22:46] UserAction: вибір пункту меню: 1
+[2026-05-05 16:22:46] DbManager: підключення до бази даних: LocalFileDatabase
+[2026-05-05 16:22:46] UserAction: користувач підключив базу даних
+[2026-05-05 16:25:06] Program: запуск програми
+[2026-05-05 16:25:10] UserAction: вибір пункту меню: 1
+[2026-05-05 16:25:10] DbManager: підключення до бази даних: LocalFileDatabase
+[2026-05-05 16:25:10] UserAction: користувач підключив базу даних
+[2026-05-05 16:27:58] Program: запуск програми
+[2026-05-05 16:28:00] UserAction: вибір пункту меню: 1
+[2026-05-05 16:28:00] DbManager: підключення до бази даних: LocalFileDatabase
+[2026-05-05 16:28:00] UserAction: користувач підключив базу даних
+[2026-05-05 16:30:37] Program: запуск програми
+[2026-05-05 16:30:41] UserAction: вибір пункту меню: 1
+[2026-05-05 16:30:41] DbManager: connected to database: LocalFileDatabase
+[2026-05-05 16:30:41] UserAction: user connected to database
+[2026-05-05 16:30:46] UserAction: вибір пункту меню: 2
+[2026-05-05 16:30:51] DbManager: SQL query executed: Hello
+[2026-05-05 16:30:51] UserAction: user executed SQL query
+[2026-05-05 16:31:00] UserAction: вибір пункту меню: 3
+[2026-05-05 16:31:08] DocumentSaver: document repository path set: documents
+[2026-05-05 16:31:08] DocumentSaver: document saved: documents/3
+[2026-05-05 16:31:08] UserAction: user saved document
+[2026-05-05 16:31:15] UserAction: вибір пункту меню: 4
+[2026-05-05 16:31:15] UserAction: user viewed DbManager address
+[2026-05-05 16:31:22] UserAction: вибір пункту меню: 5
+[2026-05-05 16:31:22] UserAction: user viewed DocumentSaver address
+[2026-05-05 16:31:29] UserAction: вибір пункту меню: 6
+[2026-05-05 16:31:29] UserAction: user viewed all Singleton object addresses
+[2026-05-05 16:31:36] UserAction: вибір пункту меню: 1
+[2026-05-05 16:31:36] DbManager: connected to database: LocalFileDatabase
+[2026-05-05 16:31:36] UserAction: user connected to database
+[2026-05-05 16:31:40] UserAction: вибір пункту меню: 2
+[2026-05-05 16:31:45] DbManager: SQL query executed: 3
+[2026-05-05 16:31:45] UserAction: user executed SQL query
+[2026-05-05 16:31:49] UserAction: вибір пункту меню: 3
+[2026-05-05 16:31:54] DocumentSaver: document repository path set: documents
+[2026-05-05 16:31:54] DocumentSaver: document saved: documents/hello
+[2026-05-05 16:31:54] UserAction: user saved document
+[2026-05-05 16:47:46] Program: запуск програми
+[2026-05-05 16:47:46] UserAction: вибір пункту меню: 4
+[2026-05-05 16:47:47] UserAction: user viewed DbManager address
+[2026-05-05 16:47:47] UserAction: вибір пункту меню: 5
+[2026-05-05 16:47:47] UserAction: user viewed DocumentSaver address
+[2026-05-05 16:47:47] UserAction: вибір пункту меню: 6
+[2026-05-05 16:47:47] UserAction: user viewed all Singleton object addresses
+[2026-05-05 16:47:47] UserAction: вибір пункту меню: 0
+[2026-05-05 16:47:47] Program: завершення програми
+[2026-05-05 17:05:56] Program: started
+[2026-05-05 17:05:56] UserAction: menu choice: 4
+[2026-05-05 17:05:56] UserAction: user viewed DbManager address
+[2026-05-05 17:05:56] UserAction: menu choice: 5
+[2026-05-05 17:05:56] UserAction: user viewed DocumentSaver address
+[2026-05-05 17:05:56] UserAction: menu choice: 6
+[2026-05-05 17:05:56] UserAction: user viewed all Singleton object addresses
+[2026-05-05 17:05:56] UserAction: menu choice: 0
+[2026-05-05 17:05:56] Program: finished
+[2026-05-05 18:04:55] Program: started
+[2026-05-05 18:07:38] Program: started
+[2026-05-05 18:07:57] Program: started
+[2026-05-05 18:08:06] UserAction: menu choice: 1
+[2026-05-05 18:08:06] DbManager: connected to database: LocalFileDatabase
+[2026-05-05 18:08:06] UserAction: user connected to database
+[2026-05-05 18:08:08] UserAction: menu choice: 2
+[2026-05-05 18:10:47] Program: started
+[2026-05-05 18:10:47] UserAction: menu choice: 1
+[2026-05-05 18:10:47] DbManager: connected to database: LocalFileDatabase
+[2026-05-05 18:10:47] UserAction: user connected to database
+[2026-05-05 18:10:47] UserAction: menu choice: 4
+[2026-05-05 18:10:47] UserAction: user viewed DbManager address
+[2026-05-05 18:10:47] UserAction: menu choice: 5
+[2026-05-05 18:10:47] UserAction: user viewed DocumentSaver address
+[2026-05-05 18:10:47] UserAction: menu choice: 6
+[2026-05-05 18:10:47] UserAction: user viewed all Singleton object addresses
+[2026-05-05 18:10:47] UserAction: menu choice: 3
+[2026-05-05 18:10:47] DocumentSaver: document repository path set: documents
+[2026-05-05 18:10:47] DocumentSaver: document saved: documents/audit_test.txt
+[2026-05-05 18:10:47] UserAction: user saved document
+[2026-05-05 18:10:47] UserAction: menu choice: 2
+[2026-05-05 18:10:47] DbManager: SQL query executed: SELECT * FROM test;
+[2026-05-05 18:10:47] UserAction: user executed SQL query
+[2026-05-05 18:10:47] UserAction: menu choice: 0
+[2026-05-05 18:10:47] Program: finished
+[2026-05-05 18:10:47] DbManager: disconnected from database

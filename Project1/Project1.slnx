@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SingletonApp.vcxproj" Id="7422f0d8-61e3-4f5a-a07d-d3e3e6795f57" />
+  <Project Path="Project1.vcxproj" />
+</Solution>

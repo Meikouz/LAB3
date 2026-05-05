@@ -1,0 +1,68 @@
+﻿  AuditModule.cpp
+C:\Users\Asus\source\2026\Project1\DbManager.h(27,17): warning C4251: "DbManager::connectionString": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "DbManager"
+  (компиляция исходного файла "AuditModule.cpp")
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\xstring(589,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+C:\Users\Asus\source\2026\Project1\DocumentSaver.h(24,17): warning C4251: "DocumentSaver::repositoryPath": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "DocumentSaver"
+  (компиляция исходного файла "AuditModule.cpp")
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\xstring(589,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+C:\Users\Asus\source\2026\Project1\Logger.h(23,19): warning C4251: "Logger::file": "std::basic_ofstream<char,std::char_traits<char>>" должен иметь dll-интерфейс для использования клиентами "Logger"
+  (компиляция исходного файла "AuditModule.cpp")
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\fstream(177,7):
+       см. объявление "std::basic_ofstream<char,std::char_traits<char>>"
+  
+C:\Users\Asus\source\2026\Project1\Logger.h(24,17): warning C4251: "Logger::fileName": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "Logger"
+  (компиляция исходного файла "AuditModule.cpp")
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\xstring(589,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+  DatabaseModule.cpp
+C:\Users\Asus\source\2026\Project1\DbManager.h(27,17): warning C4251: "DbManager::connectionString": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "DbManager"
+  (компиляция исходного файла "DatabaseModule.cpp")
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\xstring(589,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+C:\Users\Asus\source\2026\Project1\Logger.h(23,19): warning C4251: "Logger::file": "std::basic_ofstream<char,std::char_traits<char>>" должен иметь dll-интерфейс для использования клиентами "Logger"
+  (компиляция исходного файла "DatabaseModule.cpp")
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\fstream(177,7):
+       см. объявление "std::basic_ofstream<char,std::char_traits<char>>"
+  
+C:\Users\Asus\source\2026\Project1\Logger.h(24,17): warning C4251: "Logger::fileName": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "Logger"
+  (компиляция исходного файла "DatabaseModule.cpp")
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\xstring(589,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+  DocumentModule.cpp
+C:\Users\Asus\source\2026\Project1\DocumentSaver.h(24,17): warning C4251: "DocumentSaver::repositoryPath": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "DocumentSaver"
+  (компиляция исходного файла "DocumentModule.cpp")
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\xstring(589,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+C:\Users\Asus\source\2026\Project1\Logger.h(23,19): warning C4251: "Logger::file": "std::basic_ofstream<char,std::char_traits<char>>" должен иметь dll-интерфейс для использования клиентами "Logger"
+  (компиляция исходного файла "DocumentModule.cpp")
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\fstream(177,7):
+       см. объявление "std::basic_ofstream<char,std::char_traits<char>>"
+  
+C:\Users\Asus\source\2026\Project1\Logger.h(24,17): warning C4251: "Logger::fileName": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "Logger"
+  (компиляция исходного файла "DocumentModule.cpp")
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\xstring(589,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+  main.cpp
+C:\Users\Asus\source\2026\Project1\Logger.h(23,19): warning C4251: "Logger::file": "std::basic_ofstream<char,std::char_traits<char>>" должен иметь dll-интерфейс для использования клиентами "Logger"
+  (компиляция исходного файла "main.cpp")
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\fstream(177,7):
+       см. объявление "std::basic_ofstream<char,std::char_traits<char>>"
+  
+C:\Users\Asus\source\2026\Project1\Logger.h(24,17): warning C4251: "Logger::fileName": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "Logger"
+  (компиляция исходного файла "main.cpp")
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\xstring(589,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  Создание кода...
+  AuditModule.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  SingletonApp.vcxproj -> C:\Users\Asus\source\2026\Project1\x64\Debug\SingletonApp.exe
